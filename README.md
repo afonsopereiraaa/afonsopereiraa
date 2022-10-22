@@ -3,7 +3,7 @@
 <h2 align="center">I am Afonso, from Portugal PT</h2>
 
 ### About Me 🚀
-🌱Iam a Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
+🌱I am a Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
 
 ###
 
