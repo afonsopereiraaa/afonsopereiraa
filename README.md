@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋!)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1050&height=100&lines=afonsopereiraaa.cf)](https://git.io/typing-svg)
+
 
 <h2 align="center">I am Afonso, from Portugal PT</h2>
 
